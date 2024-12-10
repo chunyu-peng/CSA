@@ -1,0 +1,791 @@
+@font-face {
+  font-family: "crrc"; /* Project id 910951 */
+  src: url('iconfont.woff2?t=1651893677260') format('woff2'),
+       url('iconfont.woff?t=1651893677260') format('woff'),
+       url('iconfont.ttf?t=1651893677260') format('truetype');
+}
+
+.crrc {
+  font-family: "crrc" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.crrc-train3:before {
+  content: "\e62f";
+}
+
+.crrc-fengdiantubiao:before {
+  content: "\e62d";
+}
+
+.crrc-icon_LTE:before {
+  content: "\e69d";
+}
+
+.crrc-icon_4G:before {
+  content: "\e69e";
+}
+
+.crrc-dapingmoshi:before {
+  content: "\e68f";
+}
+
+.crrc-tongzhixiaoxi:before {
+  content: "\e690";
+}
+
+.crrc-chazhaolieche:before {
+  content: "\e691";
+}
+
+.crrc-gerenzhanghu:before {
+  content: "\e692";
+}
+
+.crrc-shujuzhongtai:before {
+  content: "\e693";
+}
+
+.crrc-xitongguanli:before {
+  content: "\e694";
+}
+
+.crrc-gudaoguanli:before {
+  content: "\e695";
+}
+
+.crrc-zhihuichechang:before {
+  content: "\e696";
+}
+
+.crrc-tiaoduguanli:before {
+  content: "\e697";
+}
+
+.crrc-yunweiguanli:before {
+  content: "\e698";
+}
+
+.crrc-jianxiuqingdian:before {
+  content: "\e699";
+}
+
+.crrc-gongzuotai:before {
+  content: "\e69a";
+}
+
+.crrc-zhengxianyunying:before {
+  content: "\e69b";
+}
+
+.crrc-jiankangguanli1:before {
+  content: "\e69c";
+}
+
+.crrc-fubianxitong1:before {
+  content: "\e62c";
+}
+
+.crrc-Emergencydisposal:before {
+  content: "\e62b";
+}
+
+.crrc-Historicaldata:before {
+  content: "\e629";
+}
+
+.crrc-xiayiteshuchangjing:before {
+  content: "\e6fd";
+}
+
+.crrc-shangyiduanguzhang:before {
+  content: "\e6fa";
+}
+
+.crrc-shangyiteshuchangjing:before {
+  content: "\e6fb";
+}
+
+.crrc-xiayiduanguzhang:before {
+  content: "\e6fc";
+}
+
+.crrc-fubianxitong:before {
+  content: "\e68e";
+}
+
+.crrc-kongtiaoxitong:before {
+  content: "\e61a";
+}
+
+.crrc-gaoyaqianyinxitong:before {
+  content: "\e61b";
+}
+
+.crrc-chemenxitong:before {
+  content: "\e612";
+}
+
+.crrc-zhidongxitong:before {
+  content: "\e613";
+}
+
+.crrc-breakeroff:before {
+  content: "\e688";
+}
+
+.crrc-breakeron:before {
+  content: "\e689";
+}
+
+.crrc-pantographup:before {
+  content: "\e68a";
+}
+
+.crrc-P-break-2:before {
+  content: "\e68b";
+}
+
+.crrc-pantographdown:before {
+  content: "\e68c";
+}
+
+.crrc-P-break-1:before {
+  content: "\e68d";
+}
+
+.crrc-driverscreen1:before {
+  content: "\e687";
+}
+
+.crrc-tab:before {
+  content: "\e681";
+}
+
+.crrc-url:before {
+  content: "\e682";
+}
+
+.crrc-more:before {
+  content: "\e683";
+}
+
+.crrc-module:before {
+  content: "\e684";
+}
+
+.crrc-button:before {
+  content: "\e685";
+}
+
+.crrc-sub-module:before {
+  content: "\e686";
+}
+
+.crrc-time:before {
+  content: "\e6f8";
+}
+
+.crrc-fangda:before {
+  content: "\e6f9";
+}
+
+.crrc-train-status-red-dark:before {
+  content: "\e67c";
+}
+
+.crrc-train-status-orange-dark:before {
+  content: "\e67d";
+}
+
+.crrc-train-status-yellow-dark:before {
+  content: "\e67e";
+}
+
+.crrc-train-status-gray-dark:before {
+  content: "\e67f";
+}
+
+.crrc-train-status-green-dark:before {
+  content: "\e680";
+}
+
+.crrc-train-status-gray-light:before {
+  content: "\e67b";
+}
+
+.crrc-img_train_orange_R:before {
+  content: "\e679";
+}
+
+.crrc-img_train_orange_L:before {
+  content: "\e67a";
+}
+
+.crrc-img_train_green_L:before {
+  content: "\e66a";
+}
+
+.crrc-img_train_red_L:before {
+  content: "\e66b";
+}
+
+.crrc-img_train_green_R:before {
+  content: "\e66c";
+}
+
+.crrc-img_train_red_R:before {
+  content: "\e66d";
+}
+
+.crrc-delete-solid:before {
+  content: "\e669";
+}
+
+.crrc-unselected4:before {
+  content: "\e6e4";
+}
+
+.crrc-selected4:before {
+  content: "\e6e5";
+}
+
+.crrc-unselected3:before {
+  content: "\e6e2";
+}
+
+.crrc-selected3:before {
+  content: "\e6e3";
+}
+
+.crrc-unselected2:before {
+  content: "\e6e1";
+}
+
+.crrc-selected2:before {
+  content: "\e6e0";
+}
+
+.crrc-unselected1:before {
+  content: "\e6de";
+}
+
+.crrc-selected1:before {
+  content: "\e6df";
+}
+
+.crrc-selected:before {
+  content: "\e6dc";
+}
+
+.crrc-unselected:before {
+  content: "\e6dd";
+}
+
+.crrc-linefeed-selected:before {
+  content: "\e6da";
+}
+
+.crrc-linefeed-unselected:before {
+  content: "\e6db";
+}
+
+.crrc-icon-test:before {
+  content: "\e6d8";
+}
+
+.crrc-bridge:before {
+  content: "\e6d2";
+}
+
+.crrc-environment:before {
+  content: "\e6d3";
+}
+
+.crrc-invade:before {
+  content: "\e6d4";
+}
+
+.crrc-rail:before {
+  content: "\e6d5";
+}
+
+.crrc-intersection:before {
+  content: "\e6d6";
+}
+
+.crrc-tunnel:before {
+  content: "\e6d7";
+}
+
+.crrc-weather:before {
+  content: "\e6d9";
+}
+
+.crrc-back:before {
+  content: "\e668";
+}
+
+.crrc-weihuguanli:before {
+  content: "\e678";
+}
+
+.crrc-gerenshezhi:before {
+  content: "\e671";
+}
+
+.crrc-zhishiku:before {
+  content: "\e674";
+}
+
+.crrc-jiankangguanli:before {
+  content: "\e675";
+}
+
+.crrc-guizeyinqing:before {
+  content: "\e676";
+}
+
+.crrc-xitongshezhi:before {
+  content: "\e677";
+}
+
+.crrc-yunyingguanli:before {
+  content: "\e66f";
+}
+
+.crrc-lishichaxun:before {
+  content: "\e670";
+}
+
+.crrc-quanxianguanli:before {
+  content: "\e672";
+}
+
+.crrc-zhinengfenxi:before {
+  content: "\e673";
+}
+
+.crrc-account-nav:before {
+  content: "\e66e";
+}
+
+.crrc-search-nav:before {
+  content: "\e663";
+}
+
+.crrc-darkmode-nav:before {
+  content: "\e664";
+}
+
+.crrc-help-nav:before {
+  content: "\e665";
+}
+
+.crrc-bell-nav:before {
+  content: "\e666";
+}
+
+.crrc-language-nav:before {
+  content: "\e667";
+}
+
+.crrc-no-data:before {
+  content: "\e662";
+}
+
+.crrc-status-activated:before {
+  content: "\e65b";
+}
+
+.crrc-status-disable:before {
+  content: "\e661";
+}
+
+.crrc-config:before {
+  content: "\e65c";
+}
+
+.crrc-driverconsole:before {
+  content: "\e65d";
+}
+
+.crrc-backtotop:before {
+  content: "\e65e";
+}
+
+.crrc-user-circle:before {
+  content: "\e65f";
+}
+
+.crrc-schematicdiagram:before {
+  content: "\e660";
+}
+
+.crrc-component:before {
+  content: "\e65a";
+}
+
+.crrc-train1:before {
+  content: "\e659";
+}
+
+.crrc-nav-collapse:before {
+  content: "\e631";
+}
+
+.crrc-search1:before {
+  content: "\e62e";
+}
+
+.crrc-endbutton:before {
+  content: "\e6ce";
+}
+
+.crrc-startbutton:before {
+  content: "\e6cd";
+}
+
+.crrc-document:before {
+  content: "\e654";
+}
+
+.crrc-case:before {
+  content: "\e655";
+}
+
+.crrc-rule:before {
+  content: "\e656";
+}
+
+.crrc-wiki:before {
+  content: "\e657";
+}
+
+.crrc-qna:before {
+  content: "\e658";
+}
+
+.crrc-environment_selected:before {
+  content: "\e6cc";
+}
+
+.crrc-export-1:before {
+  content: "\e63d";
+}
+
+.crrc-fullscreen-1:before {
+  content: "\e64a";
+}
+
+.crrc-transferstation-line13:before {
+  content: "\e640";
+}
+
+.crrc-fault-big:before {
+  content: "\e641";
+}
+
+.crrc-video:before {
+  content: "\e653";
+}
+
+.crrc-driverscreen:before {
+  content: "\e646";
+}
+
+.crrc-status-normal:before {
+  content: "\e620";
+}
+
+.crrc-status-fault:before {
+  content: "\e622";
+}
+
+.crrc-online-wifi:before {
+  content: "\e652";
+}
+
+.crrc-configure:before {
+  content: "\e60e";
+}
+
+.crrc-download:before {
+  content: "\e60f";
+}
+
+.crrc-delete-line:before {
+  content: "\e610";
+}
+
+.crrc-dashboard:before {
+  content: "\e611";
+}
+
+.crrc-feedback-success:before {
+  content: "\e614";
+}
+
+.crrc-feedback-warning:before {
+  content: "\e615";
+}
+
+.crrc-export:before {
+  content: "\e616";
+}
+
+.crrc-info-fill:before {
+  content: "\e617";
+}
+
+.crrc-info-line:before {
+  content: "\e618";
+}
+
+.crrc-linechart:before {
+  content: "\e619";
+}
+
+.crrc-recommend:before {
+  content: "\e61c";
+}
+
+.crrc-reject:before {
+  content: "\e61d";
+}
+
+.crrc-star-line:before {
+  content: "\e61e";
+}
+
+.crrc-star-fill:before {
+  content: "\e61f";
+}
+
+.crrc-pass:before {
+  content: "\e621";
+}
+
+.crrc-telephone:before {
+  content: "\e623";
+}
+
+.crrc-status-pass:before {
+  content: "\e624";
+}
+
+.crrc-status-reject:before {
+  content: "\e625";
+}
+
+.crrc-train-circle:before {
+  content: "\e63e";
+}
+
+.crrc-upload:before {
+  content: "\e63f";
+}
+
+.crrc-emergencyevent:before {
+  content: "\e642";
+}
+
+.crrc-display:before {
+  content: "\e643";
+}
+
+.crrc-fault-orange:before {
+  content: "\e644";
+}
+
+.crrc-notification:before {
+  content: "\e645";
+}
+
+.crrc-search:before {
+  content: "\e647";
+}
+
+.crrc-station:before {
+  content: "\e648";
+}
+
+.crrc-speedup-1:before {
+  content: "\e649";
+}
+
+.crrc-timeline-nextsec:before {
+  content: "\e64b";
+}
+
+.crrc-timeline-play:before {
+  content: "\e64c";
+}
+
+.crrc-transferstation-map:before {
+  content: "\e64d";
+}
+
+.crrc-timeline-previousse:before {
+  content: "\e64e";
+}
+
+.crrc-timeline-slowdown:before {
+  content: "\e64f";
+}
+
+.crrc-warning:before {
+  content: "\e650";
+}
+
+.crrc-measure:before {
+  content: "\e6c7";
+}
+
+.crrc-elect:before {
+  content: "\e6c8";
+}
+
+.crrc-eagleeye:before {
+  content: "\e6c9";
+}
+
+.crrc-name:before {
+  content: "\e6ca";
+}
+
+.crrc-reset:before {
+  content: "\e6cb";
+}
+
+.crrc-train-status-green-light:before {
+  content: "\e60a";
+}
+
+.crrc-train-status-red-light:before {
+  content: "\e60b";
+}
+
+.crrc-train-status-yellow-light:before {
+  content: "\e60c";
+}
+
+.crrc-train-status-orange-light:before {
+  content: "\e60d";
+}
+
+.crrc-pause:before {
+  content: "\e608";
+}
+
+.crrc-nextsec:before {
+  content: "\e607";
+}
+
+.crrc-previoussec:before {
+  content: "\e605";
+}
+
+.crrc-play:before {
+  content: "\e601";
+}
+
+.crrc-slowdown:before {
+  content: "\e602";
+}
+
+.crrc-speedup:before {
+  content: "\e603";
+}
+
+.crrc-move:before {
+  content: "\e6c6";
+}
+
+.crrc-train:before {
+  content: "\e6c4";
+}
+
+.crrc-alert:before {
+  content: "\e6c5";
+}
+
+.crrc-exit-fullscreen:before {
+  content: "\e609";
+}
+
+.crrc-zoom-in:before {
+  content: "\e985";
+}
+
+.crrc-zoom-out:before {
+  content: "\e986";
+}
+
+.crrc-delete:before {
+  content: "\e606";
+}
+
+.crrc-AC-unselected:before {
+  content: "\e626";
+}
+
+.crrc-AC-selected:before {
+  content: "\e627";
+}
+
+.crrc-redo:before {
+  content: "\e628";
+}
+
+.crrc-fullscreen:before {
+  content: "\e62a";
+}
+
+.crrc-select:before {
+  content: "\e633";
+}
+
+.crrc-input:before {
+  content: "\e634";
+}
+
+.crrc-storage-selected:before {
+  content: "\e635";
+}
+
+.crrc-timer:before {
+  content: "\e636";
+}
+
+.crrc-storage-unselected:before {
+  content: "\e637";
+}
+
+.crrc-output:before {
+  content: "\e638";
+}
+
+.crrc-TC-selected:before {
+  content: "\e639";
+}
+
+.crrc-note:before {
+  content: "\e63a";
+}
+
+.crrc-undo:before {
+  content: "\e63b";
+}
+
+.crrc-TC-unselected:before {
+  content: "\e63c";
+}
+
+.crrc-print:before {
+  content: "\e604";
+}
+
